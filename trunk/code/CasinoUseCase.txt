@@ -1,0 +1,7 @@
+Pelles Kasino 1.0 | Casino Use Case
+
+1.  Casino Starts
+2.  Player Chooses Game
+3.  Player Starts Game
+4.  Player Plays Game
+5.  Player Ends Game

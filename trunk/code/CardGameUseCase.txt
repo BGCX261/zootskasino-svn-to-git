@@ -1,0 +1,9 @@
+Pelles Kasino 1.0 | Card Game
+
+1.  Game is started
+	1.1 New Deck
+	1.2 Deck is shuffled
+	1.3 Cards dealt to hand from Deck
+2.  Game is played (according to its individual strategy)
+3.  Game determines winner
+4.  Player ends game

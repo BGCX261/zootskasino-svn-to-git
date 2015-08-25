@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{DECFE6CE-265D-4FAC-B40E-9811F1A91DBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{580A81EE-0B8F-4BE2-9715-722EDA201F82}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		PellesKasino.vsmdi = PellesKasino.vsmdi
+		PellesKasino1.vsmdi = PellesKasino1.vsmdi
+		PellesKasino2.vsmdi = PellesKasino2.vsmdi
+		PellesKasino3.vsmdi = PellesKasino3.vsmdi
+		PellesKasino4.vsmdi = PellesKasino4.vsmdi
+		PellesKasino5.vsmdi = PellesKasino5.vsmdi
+		PellesKasino6.vsmdi = PellesKasino6.vsmdi
+		PellesKasino7.vsmdi = PellesKasino7.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardTests", "CardTests\CardTests.csproj", "{1E0665BD-73F5-4BD1-832B-930F0130FBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameClasses", "CardGameClasses\CardGameClasses.csproj", "{76574DD5-E1CD-4DF9-86E5-0F691AD99BB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Use Cases", "Use Cases", "{59995E7F-2305-45CB-9C01-C34DAECA9EDB}"
+	ProjectSection(SolutionItems) = preProject
+		BlackJackUseCase.txt = BlackJackUseCase.txt
+		CardGameUseCase.txt = CardGameUseCase.txt
+		GuessTheCardUseCase.txt = GuessTheCardUseCase.txt
+		PokerUseCase.txt = PokerUseCase.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGamesForms", "CardGamesForms\CardGamesForms.csproj", "{86D24007-8DFD-4C8C-881B-95D343D3AC6A}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PellesKasino7.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECFE6CE-265D-4FAC-B40E-9811F1A91DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECFE6CE-265D-4FAC-B40E-9811F1A91DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECFE6CE-265D-4FAC-B40E-9811F1A91DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECFE6CE-265D-4FAC-B40E-9811F1A91DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0665BD-73F5-4BD1-832B-930F0130FBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0665BD-73F5-4BD1-832B-930F0130FBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0665BD-73F5-4BD1-832B-930F0130FBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0665BD-73F5-4BD1-832B-930F0130FBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76574DD5-E1CD-4DF9-86E5-0F691AD99BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76574DD5-E1CD-4DF9-86E5-0F691AD99BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76574DD5-E1CD-4DF9-86E5-0F691AD99BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76574DD5-E1CD-4DF9-86E5-0F691AD99BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D24007-8DFD-4C8C-881B-95D343D3AC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D24007-8DFD-4C8C-881B-95D343D3AC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D24007-8DFD-4C8C-881B-95D343D3AC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D24007-8DFD-4C8C-881B-95D343D3AC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59995E7F-2305-45CB-9C01-C34DAECA9EDB} = {580A81EE-0B8F-4BE2-9715-722EDA201F82}
+	EndGlobalSection
+EndGlobal

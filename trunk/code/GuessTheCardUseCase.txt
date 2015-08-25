@@ -1,0 +1,12 @@
+Pelles Kasino 1.0 | Guess The Card
+
+1.  Player starts game
+2.  Player chooses card from Guess Deck
+3.  Game determines if Guess Card is equal to Mystery Card
+	3.1 If Guess Card is wrong, game gives card hint.
+	3.2 Player chooses another Guess Card
+	3.3 Player gets 5 chances to guess
+	3.4 If all 5 guesses are wrong, Player loses
+4.  Player wins if Guess Card is equal to Mystery Card
+	4.4 Player restarts game
+5.  Player ends game

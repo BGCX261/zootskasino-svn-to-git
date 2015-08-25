@@ -1,0 +1,11 @@
+Pelles Kasino 1.0 | Black Jack (Player plays as Bank)
+
+1.  Player starts game
+2.  Game determines value of cards and gets sum of cards
+	2.1  If sum of cards is less than 17, player can "hit"
+	2.2  Player hits and card is dealt from Deck to up cards
+3.  If sum of cards is 17 or over, Game stops playing
+4.  Game determines if player is winner.  21 = winner
+	4.1 Player restarts game
+5.  Player ends game
+	

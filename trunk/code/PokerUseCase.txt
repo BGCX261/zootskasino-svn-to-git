@@ -1,0 +1,7 @@
+Pelles Kasino | Poker
+
+1.  Player starts game
+2.  Game determines hand type
+	2.1  Player resets Deck and clears Hand
+	2.2  New Hand dealt from Deck
+3.  Player ends game

@@ -1,0 +1,462 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Casino.Suit">
+      <Item value="Equals" priority="0" />
+      <Item value="CompareTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="thatcard" priority="1" />
+      <Item value="Card" priority="164" />
+      <Item value="new" priority="104" />
+      <Item value="Rank" priority="46" />
+      <Item value="Suit" priority="40" />
+      <Item value="_rank" priority="5" />
+      <Item value="_suit" priority="9" />
+      <Item value="readonly" priority="1" />
+      <Item value="public" priority="41" />
+      <Item value="IComparer" priority="3" />
+      <Item value="this" priority="7" />
+      <Item value="return" priority="44" />
+      <Item value="object" priority="1" />
+      <Item value="int" priority="80" />
+      <Item value="foreach" priority="26" />
+      <Item value="kort" priority="7" />
+      <Item value="_cards" priority="31" />
+      <Item value="List" priority="35" />
+      <Item value="_deck" priority="24" />
+      <Item value="var" priority="0" />
+      <Item value="List&lt;Card&gt;" priority="24" />
+      <Item value="for" priority="9" />
+      <Item value="i" priority="40" />
+      <Item value="deckToSort" priority="1" />
+      <Item value="card" priority="59" />
+      <Item value="Comparison&lt;Card&gt;" priority="2" />
+      <Item value="SortedList" priority="0" />
+      <Item value="using" priority="9" />
+      <Item value="Casino" priority="14" />
+      <Item value="rank" priority="4" />
+      <Item value="suit" priority="1" />
+      <Item value="private" priority="28" />
+      <Item value="Assert" priority="17" />
+      <Item value="card1" priority="4" />
+      <Item value="card2" priority="3" />
+      <Item value="if" priority="55" />
+      <Item value="match" priority="0" />
+      <Item value="matchSuit" priority="8" />
+      <Item value="sortRank" priority="0" />
+      <Item value="while" priority="3" />
+      <Item value="sortedDeck" priority="1" />
+      <Item value="sortCard" priority="0" />
+      <Item value="CardComparer" priority="6" />
+      <Item value="sortedCards" priority="1" />
+      <Item value="void" priority="29" />
+      <Item value="lbDeck" priority="0" />
+      <Item value="LoadDeck" priority="0" />
+      <Item value="compare" priority="0" />
+      <Item value="numberOfCards" priority="0" />
+      <Item value="hand" priority="24" />
+      <Item value="Comparer" priority="0" />
+      <Item value="cc" priority="0" />
+      <Item value="label3" priority="0" />
+      <Item value="in" priority="7" />
+      <Item value="kortLista" priority="3" />
+      <Item value="cardToCompare" priority="3" />
+      <Item value="matches" priority="1" />
+      <Item value="TestMethod" priority="10" />
+      <Item value="case" priority="12" />
+      <Item value="TypeOfHand" priority="12" />
+      <Item value="switch" priority="1" />
+      <Item value="SortCriteria" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="pokerHand" priority="21" />
+      <Item value="matchRank" priority="0" />
+      <Item value="else" priority="22" />
+      <Item value="addComparison" priority="1" />
+      <Item value="rankComparison" priority="0" />
+      <Item value="guessDeck" priority="0" />
+      <Item value="guessCard" priority="46" />
+      <Item value="mysteryCard" priority="36" />
+      <Item value="string" priority="2" />
+      <Item value="guessRank" priority="4" />
+      <Item value="guessSuit" priority="7" />
+      <Item value="bool" priority="14" />
+      <Item value="false" priority="21" />
+      <Item value="tries" priority="3" />
+      <Item value="winner" priority="8" />
+      <Item value="true" priority="20" />
+      <Item value="GuessCard" priority="5" />
+      <Item value="pickCard" priority="1" />
+      <Item value="c" priority="1" />
+      <Item value="cbPickDeck" priority="2" />
+      <Item value="lblHints" priority="0" />
+      <Item value="hintMessage" priority="1" />
+      <Item value="null" priority="4" />
+      <Item value="as" priority="1" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="pickedCard" priority="18" />
+      <Item value="combobox" priority="0" />
+      <Item value="_deckToPick" priority="3" />
+      <Item value="DialogResult" priority="3" />
+      <Item value="MessageBox" priority="0" />
+      <Item value="MessageBoxButtons" priority="0" />
+      <Item value="MessageBoxDefaultButton" priority="0" />
+      <Item value="GuessTheCard" priority="7" />
+      <Item value="guessTheCard" priority="6" />
+      <Item value="casino" priority="3" />
+      <Item value="break" priority="0" />
+      <Item value="guesses" priority="4" />
+      <Item value="obj" priority="0" />
+      <Item value="lblGuesses" priority="2" />
+      <Item value="tbGuesses" priority="1" />
+      <Item value="numberofGuesses" priority="0" />
+      <Item value="Close" priority="5" />
+      <Item value="Enum" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="cardValues" priority="2" />
+      <Item value="cardList" priority="1" />
+      <Item value="BlackJackClass" priority="0" />
+      <Item value="rankValues" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="oneThroughThirteen" priority="0" />
+      <Item value="DeckOfCards" priority="16" />
+      <Item value="sumOfCards" priority="16" />
+      <Item value="rankAce" priority="1" />
+      <Item value="testAce" priority="0" />
+      <Item value="BlackJack" priority="10" />
+      <Item value="cards" priority="12" />
+      <Item value="dealCards" priority="1" />
+      <Item value="Poker" priority="4" />
+      <Item value="ListViewItemMouseHoverEventHandler" priority="0" />
+      <Item value="cardsToCompare" priority="0" />
+      <Item value="_hand" priority="2" />
+      <Item value="_blackjack" priority="6" />
+      <Item value="startCards" priority="3" />
+      <Item value="lbUpCards" priority="5" />
+      <Item value="lblHoleCard" priority="3" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="StartGame" priority="5" />
+      <Item value="_upCards" priority="6" />
+      <Item value="ShowCards" priority="3" />
+      <Item value="HitMe" priority="0" />
+      <Item value="btnStart" priority="5" />
+      <Item value="lblDeck" priority="6" />
+      <Item value="lblSum" priority="2" />
+      <Item value="value" priority="3" />
+      <Item value="rankValue" priority="0" />
+      <Item value="cardValue" priority="2" />
+      <Item value="blackJack" priority="3" />
+      <Item value="numberCards" priority="1" />
+      <Item value="faceCards" priority="0" />
+      <Item value="isAce" priority="11" />
+      <Item value="holdCard" priority="1" />
+      <Item value="StopPlaying" priority="0" />
+      <Item value="stop" priority="1" />
+      <Item value="btnHitMe" priority="2" />
+      <Item value="newSumOfCards" priority="0" />
+      <Item value="CheckForWinner" priority="0" />
+      <Item value="LoadGame" priority="2" />
+      <Item value="interface" priority="0" />
+      <Item value="IsWinner" priority="3" />
+      <Item value="protected" priority="17" />
+      <Item value="virtual" priority="5" />
+      <Item value="Deal" priority="1" />
+      <Item value="PokerHand" priority="0" />
+      <Item value="override" priority="16" />
+      <Item value="lbPokerHand" priority="0" />
+      <Item value="lblHand" priority="1" />
+      <Item value="PokerGame" priority="2" />
+      <Item value="base" priority="2" />
+      <Item value="lblNameOfGame" priority="2" />
+      <Item value="btnDeal" priority="2" />
+      <Item value="btnReset" priority="1" />
+      <Item value="btnSubmit" priority="0" />
+      <Item value="_mysteryCard" priority="4" />
+      <Item value="GuessTheCardGame" priority="2" />
+      <Item value="_dealtCard" priority="4" />
+      <Item value="BlackJackGame" priority="2" />
+      <Item value="CardGames" priority="1" />
+      <Item value="guessTheCardGame" priority="0" />
+      <Item value="CardGame" priority="5" />
+      <Item value="deck" priority="2" />
+      <Item value="game" priority="2" />
+      <Item value="abstract" priority="0" />
+      <Item value="mysterCard" priority="1" />
+      <Item value="ICardGame" priority="1" />
+      <Item value="upCard" priority="0" />
+      <Item value="holeCard" priority="0" />
+      <Item value="cardSum" priority="2" />
+      <Item value="cardRank" priority="0" />
+      <Item value="cardSuit" priority="0" />
+      <Item value="mysteryCardSum" priority="0" />
+      <Item value="testCard" priority="0" />
+      <Item value="testGuess" priority="0" />
+      <Item value="pickedCardSum" priority="0" />
+      <Item value="sumOfPickedCard" priority="1" />
+      <Item value="_guessTheCard" priority="1" />
+      <Item value="straightHand" priority="17" />
+      <Item value="getHandType" priority="0" />
+      <Item value="Array" priority="0" />
+      <Item value="_compareHand" priority="3" />
+      <Item value="IsFlush" priority="4" />
+      <Item value="isFlush" priority="2" />
+      <Item value="isStraight" priority="1" />
+      <Item value="isRoyalFlush" priority="1" />
+      <Item value="straightRoyal" priority="6" />
+      <Item value="IComparable" priority="0" />
+      <Item value="IDisposable" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="IsRoyalFlush" priority="0" />
+      <Item value="IsStraight" priority="1" />
+      <Item value="getHandSum" priority="0" />
+      <Item value="sumOfHand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.Card">
+      <Item value="_suit" priority="10" />
+      <Item value="CompareTo" priority="11" />
+      <Item value="_rank" priority="10" />
+      <Item value="Compare" priority="1" />
+      <Item value="rank" priority="33" />
+      <Item value="CompareRank" priority="0" />
+      <Item value="suit" priority="27" />
+      <Item value="SortBy" priority="0" />
+      <Item value="CompareToSuit" priority="6" />
+      <Item value="CompareToRank" priority="0" />
+      <Item value="ToString" priority="11" />
+      <Item value="Equals" priority="2" />
+      <Item value="PickedCard" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Casino.Rank">
+      <Item value="None" priority="0" />
+      <Item value="Ace" priority="20" />
+      <Item value="Two" priority="12" />
+      <Item value="Jack" priority="10" />
+      <Item value="Ten" priority="9" />
+      <Item value="Nine" priority="2" />
+      <Item value="Five" priority="8" />
+      <Item value="Three" priority="9" />
+      <Item value="Four" priority="7" />
+      <Item value="Six" priority="6" />
+      <Item value="King" priority="5" />
+      <Item value="Queen" priority="4" />
+      <Item value="from" priority="0" />
+      <Item value="Eight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Casino.Suit">
+      <Item value="None" priority="0" />
+      <Item value="Spades" priority="37" />
+      <Item value="Hearts" priority="11" />
+      <Item value="Diamonds" priority="9" />
+      <Item value="Clubs" priority="20" />
+      <Item value="ctx" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort" priority="6" />
+      <Item value="Count" priority="16" />
+      <Item value="Add" priority="5" />
+      <Item value="RemoveAt" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.DeckOfCards">
+      <Item value="Sort" priority="3" />
+      <Item value="Deal" priority="7" />
+      <Item value="GetCardNames" priority="0" />
+      <Item value="Count" priority="3" />
+      <Item value="Shuffle" priority="2" />
+      <Item value="Discard" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="ItemHeight" priority="0" />
+      <Item value="Items" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Clear" priority="4" />
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="22" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Casino.TypeOfHand">
+      <Item value="StraightFlush" priority="2" />
+      <Item value="Flush" priority="2" />
+      <Item value="RoyalFlush" priority="2" />
+      <Item value="FullHouse" priority="3" />
+      <Item value="FourOfAKind" priority="2" />
+      <Item value="Straight" priority="2" />
+      <Item value="ThreeOfAKind" priority="1" />
+      <Item value="TwoPairs" priority="1" />
+      <Item value="Pair" priority="1" />
+      <Item value="HighCard" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Casino.Card+SortCriteria">
+      <Item value="BySuit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.Rank">
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.GuessCard">
+      <Item value="IsWinner" priority="3" />
+      <Item value="IsCardWinner" priority="1" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedItem" priority="4" />
+      <Item value="SelectedValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType" priority="0" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="YesNo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxDefaultButton">
+      <Item value="Button1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="Yes" priority="0" />
+      <Item value="No" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.GuessTheCard">
+      <Item value="Show" priority="1" />
+      <Item value="_mysteryCard" priority="1" />
+      <Item value="hand" priority="0" />
+      <Item value="guessCard" priority="0" />
+      <Item value="GuessCard" priority="2" />
+      <Item value="IsWinner" priority="0" />
+      <Item value="GetSumOfCards" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.Casino">
+      <Item value="Show" priority="0" />
+      <Item value="Close" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.BlackJackClass">
+      <Item value="RankValues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.BlackJack">
+      <Item value="hand" priority="0" />
+      <Item value="GetSumOfCards" priority="5" />
+      <Item value="GetRankValue" priority="0" />
+      <Item value="StopPlaying" priority="0" />
+      <Item value="IsWinner" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.BlackJackGame">
+      <Item value="lblSum" priority="0" />
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.BaseForm">
+      <Item value="StartGame" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.CardGame">
+      <Item value="StartGame" priority="0" />
+      <Item value="DealHand" priority="1" />
+      <Item value="_cards" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.TypeOfHand">
+      <Item value="ToString" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Casino.Poker">
+      <Item value="GetSumOfCards" priority="1" />
+      <Item value="IsStraight" priority="0" />
+      <Item value="IsFlush" priority="0" />
+      <Item value="IsRoyalFlush" priority="0" />
+      <Item value="GetHandType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Sort" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1E0665BD-73F5-4BD1-832B-930F0130FBB0/f:GuessCardTests.cs" caret="261" fromTop="9" />
+      <File id="59995E7F-2305-45CB-9C01-C34DAECA9EDB/f:PokerUseCase.txt/l:C!?work?PellesKasino?code?PokerUseCase.txt" caret="0" fromTop="0" />
+      <File id="59995E7F-2305-45CB-9C01-C34DAECA9EDB/f:GuessTheCardUseCase.txt/l:C!?work?PellesKasino?code?GuessTheCardUseCase.txt" caret="213" fromTop="5" />
+      <File id="59995E7F-2305-45CB-9C01-C34DAECA9EDB/f:BlackJackUseCase.txt/l:C!?work?PellesKasino?code?BlackJackUseCase.txt" caret="0" fromTop="0" />
+      <File id="59995E7F-2305-45CB-9C01-C34DAECA9EDB/f:CardGameUseCase.txt/l:C!?work?PellesKasino?code?CardGameUseCase.txt" caret="213" fromTop="7" />
+      <File id="1E0665BD-73F5-4BD1-832B-930F0130FBB0/f:PokerTests.cs" caret="35" fromTop="1" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:Card.cs" caret="0" fromTop="0" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:GuessTheCard.cs" caret="0" fromTop="0" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:ICardGame.cs" caret="0" fromTop="0" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:Poker.cs" caret="0" fromTop="0" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:Rank.cs" caret="0" fromTop="0" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:Suit.cs" caret="0" fromTop="0" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.Designer.cs" caret="5014" fromTop="15" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.cs" caret="1304" fromTop="60" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.cs" caret="133" fromTop="6" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.Designer.cs" caret="2957" fromTop="11" />
+      <File id="DECFE6CE-265D-4FAC-B40E-9811F1A91DBE/f:Casino.cs" caret="85" fromTop="4" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.cs" caret="166" fromTop="7" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.Designer.cs" caret="4352" fromTop="10" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.Designer.cs" caret="3239" fromTop="8" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="2628" fromTop="32" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:BlackJack.cs" caret="1142" fromTop="16" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:DeckOfCards.cs" caret="1395" fromTop="16" />
+      <File id="1E0665BD-73F5-4BD1-832B-930F0130FBB0/f:BlackJackTests.cs" caret="913" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DECFE6CE-265D-4FAC-B40E-9811F1A91DBE/f:Casino.cs" caret="64" fromTop="2" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.cs" caret="50" fromTop="2" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.Designer.cs" caret="4894" fromTop="22" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.Designer.cs" caret="5094" fromTop="20" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.Designer.cs" caret="5094" fromTop="18" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.Designer.cs" caret="5094" fromTop="13" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.cs" caret="1302" fromTop="38" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.Designer.cs" caret="5014" fromTop="15" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BaseForm.cs" caret="1314" fromTop="60" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.Designer.cs" caret="1919" fromTop="14" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.Designer.cs" caret="2957" fromTop="11" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.cs" caret="1441" fromTop="2" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:PokerGame.cs" caret="133" fromTop="6" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.Designer.cs" caret="4352" fromTop="10" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.cs" caret="3704" fromTop="7" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.cs" caret="50" fromTop="2" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:BlackJackGame.cs" caret="166" fromTop="7" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="15" fromTop="1" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="134" fromTop="0" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="5768" fromTop="0" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.Designer.cs" caret="5494" fromTop="15" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.Designer.cs" caret="3239" fromTop="8" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="3886" fromTop="2" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="2121" fromTop="16" />
+      <File id="86D24007-8DFD-4C8C-881B-95D343D3AC6A/f:GuessTheCardGame.cs" caret="2849" fromTop="13" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:BlackJack.cs" caret="1142" fromTop="17" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:BlackJack.cs" caret="1453" fromTop="16" />
+      <File id="76574DD5-E1CD-4DF9-86E5-0F691AD99BB7/f:DeckOfCards.cs" caret="1393" fromTop="16" />
+      <File id="1E0665BD-73F5-4BD1-832B-930F0130FBB0/f:BlackJackTests.cs" caret="317" fromTop="11" />
+      <File id="1E0665BD-73F5-4BD1-832B-930F0130FBB0/f:BlackJackTests.cs" caret="913" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
